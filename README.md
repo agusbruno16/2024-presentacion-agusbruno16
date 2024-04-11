@@ -1,4 +1,4 @@
-# Presentacion
+# Presentación
 
 Buenass! Me llamo Agustin Bruno y tengo 19 años.
 
@@ -12,5 +12,8 @@ Buenass! Me llamo Agustin Bruno y tengo 19 años.
 - vivo en Banfield
 - mi serie favorita es Game of Thrones
 - empece la carrera el año pasado 
+
+![IMG_5287](https://github.com/agusbruno16/presentacion/assets/166733062/83c0d162-39a1-4a29-a215-62ea62eb7e88)
+
 
 
