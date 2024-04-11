@@ -1,10 +1,16 @@
-# presentacion-
+# Presentacion
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Buenass! Me llamo Agustin Bruno y tengo 19 años.
 
-Ya saben usar git!
+## Cosas que me gustan  
+- ir al gimnasio
+- mirar series 
+- salir con amigos 
+- cocinar (aunque casi siempre me sale mal)
+
+## Datos sobre mi 
+- vivo en Banfield
+- mi serie favorita es Game of Thrones
+- empece la carrera el año pasado 
+
+
